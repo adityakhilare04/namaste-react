@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Aditya",
+    "React"
+  ],
+  "homepage": "https://github.com/adityakhilare04/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/adityakhilare04/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakhilare04/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Aditya",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jst"
+  },
+  "dependencies": {
+    "parcel": "^2.15.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
